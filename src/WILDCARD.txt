@@ -4720,3 +4720,4 @@ www.lazada.*sixcountry
 *.ups-tms.com
 *.ups-mi.com
 *.abr.com.au
+*.call-control.ie
